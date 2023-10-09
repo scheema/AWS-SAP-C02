@@ -8,7 +8,7 @@
 #### Knowledge of:
 - AWS global infrastructure 
 - AWS networking concepts (for example, Amazon VPC, AWS Direct Connect, AWS VPN, transitive routing, AWS container services) 
-- Hybrid DNS concepts (for example, Amazon Route 53 Resolver 1, on-premises DNS integration )
+- Hybrid DNS concepts (for example, Amazon Route 53 Resolver, on-premises DNS integration )
 - Network segmentation (for example, subnetting, IP addressing, connectivity among VPCs) 
 - Network traffic monitoring 
 
