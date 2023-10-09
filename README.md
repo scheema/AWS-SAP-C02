@@ -76,13 +76,13 @@ Lens)
 - Adopting managed services as needed to reduce infrastructure provisioning and patching overhead
 - Making advanced technologies accessible by delegating complex development and deployment tasks to AWSVersion
 ### Task Statement 2: Design a solution to ensure business continuity.
-### Knowledge of:
+#### Knowledge of:
 - AWS global infrastructure
 - AWS networking concepts (for example, Route 53, routing methods)
 - RTOs and RPOs
 - Disaster recovery scenarios (for example, backup and restore, pilot light, warm standby, multi-site)
 - Disaster recovery solutions on AWS
-### Skills in:
+#### Skills in:
 - Configuring disaster recovery solutions
 - Configuring data and database replication
 - Performing disaster recovery testing
