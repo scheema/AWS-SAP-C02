@@ -6,17 +6,17 @@
 ### Task Statement 1: Architect network connectivity strategies.
 
 #### Knowledge of:
-- AWS global infrastructure 1 2 3
-- AWS networking concepts (for example, Amazon VPC, AWS Direct Connect, AWS VPN, transitive routing, AWS container services) 1 2
-- Hybrid DNS concepts (for example, Amazon Route 53 Resolver 1, on-premises DNS integration 1 2*)
-- Network segmentation (for example, subnetting, IP addressing, connectivity among VPCs) 1 
-- Network traffic monitoring 1 2 3*
+- AWS global infrastructure 
+- AWS networking concepts (for example, Amazon VPC, AWS Direct Connect, AWS VPN, transitive routing, AWS container services) 
+- Hybrid DNS concepts (for example, Amazon Route 53 Resolver 1, on-premises DNS integration )
+- Network segmentation (for example, subnetting, IP addressing, connectivity among VPCs) 
+- Network traffic monitoring 
 
 #### Skills in:
-- Evaluating connectivity options for multiple VPCs 1
-- Evaluating connectivity options for on-premises, co-location, and cloud integration 1
-- Selecting AWS Regions and Availability Zones based on network and latency requirements 1 2
-- Troubleshooting traffic flows by using AWS tools 1
+- Evaluating connectivity options for multiple VPCs 
+- Evaluating connectivity options for on-premises, co-location, and cloud integration 
+- Selecting AWS Regions and Availability Zones based on network and latency requirements 
+- Troubleshooting traffic flows by using AWS tools 
 - Utilizing service endpoints for service integrations
 Task Statement 2: Prescribe security controls.
 #### Knowledge of:
