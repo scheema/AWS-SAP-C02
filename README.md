@@ -1,2 +1,2 @@
-# AWS-SAP-C03
+# AWS-SAP-C02
 AWS Solution Architect Certification Notes
