@@ -18,7 +18,7 @@
 - Selecting AWS Regions and Availability Zones based on network and latency requirements 
 - Troubleshooting traffic flows by using AWS tools 
 - Utilizing service endpoints for service integrations
-Task Statement 2: Prescribe security controls.
+### Task Statement 2: Prescribe security controls.
 #### Knowledge of:
 - AWS Identity and Access Management (IAM) and AWS Single Sign-On
 - Route tables, security groups, and network ACLs
