@@ -1,0 +1,15 @@
+Organizational Units
+OUs in AWS Organizations are primarily used for organizational and management purposes, and they provide a way to structure and organize AWS accounts within your AWS Organization. Resources are provisioned within individual AWS accounts.
+
+Here's the typical relationship:
+
+AWS Accounts:
+
+An AWS account is the fundamental unit of ownership and billing. It serves as a container for AWS resources, and resources are provisioned within individual AWS accounts.
+Organizational Units (OUs):
+
+OUs are part of AWS Organizations and are used for organizational and policy management. They allow you to organize and structure your AWS accounts hierarchically. However, OUs do not directly contain or provision resources. Instead, they provide a way to apply policies and permissions at a higher level, affecting multiple accounts within the OU.
+Resources:
+
+Resources, such as EC2 instances, S3 buckets, databases, etc., are provisioned within individual AWS accounts. Each AWS account has its own set of resources and is responsible for the management and configuration of those resources.
+While OUs themselves do not directly contain resources, you can use Service Control Policies (SCPs) at the OU level to control what actions accounts within an OU can perform. SCPs allow you to set fine-grained permissions and restrictions at the OU level, affecting the accounts and resources within that organizational unit.
